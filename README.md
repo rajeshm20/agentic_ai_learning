@@ -50,8 +50,11 @@ This project serves as a **foundation for Agentic AI systems**, designed for **h
 1_miniprojects/
 │
 ├── 1_LocalChatAgent.py # Main chat agent
+
 ├── .venv/ # uv virtual environment
+
 ├── .gitignore
+
 └── README.md
 
 yaml
