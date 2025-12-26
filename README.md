@@ -76,7 +76,7 @@ or download from
 1️⃣ Clone the repository
 bash
 Copy code
-git clone [https://github.com/rajeshm20/agentic_ai_learning.git]
+git clone https://github.com/rajeshm20/agentic_ai_learning.git
 cd 1_miniprojects
 2️⃣ Create virtual environment
 bash
